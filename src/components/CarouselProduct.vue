@@ -12,14 +12,20 @@
                                         <li class="w-icon active">
                                             <a href="#"><i class="icon_bag_alt"></i></a>
                                         </li>
-                                        <li class="quick-view"><a href="product.html">+ Quick View</a></li>
+                                        <li class="quick-view">
+                                            <router-link to="/Product">
+                                                + Quick View
+                                            </router-link>
+                                        </li>
                                     </ul>
                                 </div>
                                 <div class="pi-text">
                                     <div class="catagory-name">Scarf</div>
+                                    <router-link to="/Product">
                                     <a href="#">
                                         <h5>Patera</h5>
                                     </a>
+                                    </router-link>
                                     <div class="product-price">
                                         $15.00
                                         <span>$25.00</span>

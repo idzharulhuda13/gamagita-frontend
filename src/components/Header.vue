@@ -19,9 +19,9 @@
                     <div class="row">
                         <div class="col-lg-2 col-md-2">
                             <div class="logo">
-                                <a href="./index.html">
+                                <router-link to="/">
                                     <img src="img/logo_gamagita.png" height="70px" alt="" />
-                                </a>
+                                </router-link>
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-7"></div>
@@ -73,8 +73,8 @@
                                             <h5>$30.00</h5>
                                         </div>
                                         <div class="select-button">
-                                            <a href="#" class="primary-btn view-card">VIEW CARD</a>
-                                            <a href="#" class="primary-btn checkout-btn">CHECK OUT</a>
+                                            <router-link to="/shoppingcart" class="primary-btn view-card">VIEW CARD</router-link>
+                                            <router-link to="/shoppingcart" class="primary-btn checkout-btn">CHECK OUT</router-link>
                                         </div>
                                     </div>
                                 </li>

@@ -1,4 +1,5 @@
 # gamagita.id
+preview: https://cocky-shannon-8cc41d.netlify.app/
 
 ## Project setup
 ```

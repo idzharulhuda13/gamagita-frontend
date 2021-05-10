@@ -14,7 +14,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="product-item">
                             <div class="pi-pic">
-                                <img src="img/products/women-1.jpg" alt="" />
+                                <img src="img/products/gamagita_bara1.jpg" alt="" />
                                 <ul>
                                     <li class="w-icon active">
                                         <a href="#"><i class="icon_bag_alt"></i></a>
@@ -23,12 +23,12 @@
                                 </ul>
                             </div>
                             <div class="pi-text">
-                                <div class="catagory-name">Coat</div>
+                                <div class="catagory-name">Scarf</div>
                                 <a href="#">
-                                    <h5>Pure Pineapple</h5>
+                                    <h5>Bara</h5>
                                 </a>
                                 <div class="product-price">
-                                    $14.00
+                                    $15.00
                                     <span>$35.00</span>
                                 </div>
                             </div>
@@ -37,7 +37,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="product-item">
                             <div class="pi-pic">
-                                <img src="img/products/women-2.jpg" alt="" />
+                                <img src="img/products/gamagita_tirta1.jpg" alt="" />
                                 <ul>
                                     <li class="w-icon active">
                                         <a href="#"><i class="icon_bag_alt"></i></a>
@@ -46,12 +46,12 @@
                                 </ul>
                             </div>
                             <div class="pi-text">
-                                <div class="catagory-name">Shoes</div>
+                                <div class="catagory-name">Scarf</div>
                                 <a href="#">
-                                    <h5>Guangzhou sweater</h5>
+                                    <h5>Tirta</h5>
                                 </a>
                                 <div class="product-price">
-                                    $13.00
+                                    $15.00
                                 </div>
                             </div>
                         </div>
@@ -59,7 +59,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="product-item">
                             <div class="pi-pic">
-                                <img src="img/products/women-3.jpg" alt="" />
+                                <img src="img/products/gamagita_puspa1.jpg" alt="" />
                                 <ul>
                                     <li class="w-icon active">
                                         <a href="#"><i class="icon_bag_alt"></i></a>
@@ -68,12 +68,12 @@
                                 </ul>
                             </div>
                             <div class="pi-text">
-                                <div class="catagory-name">Towel</div>
+                                <div class="catagory-name">Scarf</div>
                                 <a href="#">
-                                    <h5>Pure Pineapple</h5>
+                                    <h5>Puspa</h5>
                                 </a>
                                 <div class="product-price">
-                                    $34.00
+                                    $15.00
                                 </div>
                             </div>
                         </div>
@@ -81,7 +81,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="product-item">
                             <div class="pi-pic">
-                                <img src="img/products/women-4.jpg" alt="" />
+                                <img src="img/products/gamagita_patera1.jpg" alt="" />
                                 <ul>
                                     <li class="w-icon active">
                                         <a href="#"><i class="icon_bag_alt"></i></a>
@@ -90,12 +90,12 @@
                                 </ul>
                             </div>
                             <div class="pi-text">
-                                <div class="catagory-name">Towel</div>
+                                <div class="catagory-name">Scarf</div>
                                 <a href="#">
-                                    <h5>Converse Shoes</h5>
+                                    <h5>Patera</h5>
                                 </a>
                                 <div class="product-price">
-                                    $34.00
+                                    $15.00
                                 </div>
                             </div>
                         </div>

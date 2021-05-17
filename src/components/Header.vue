@@ -31,7 +31,7 @@
                                     Keranjang Belanja &nbsp;
                                     <a href="#">
                                         <i class="icon_bag_alt"></i>
-                                        <span>3</span>
+                                        <span>2</span>
                                     </a>
                                     <div class="cart-hover">
                                         <div class="select-items">
